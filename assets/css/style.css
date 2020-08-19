@@ -1,3 +1,17 @@
 .jumbotron{
-    background-color: blueviolet
+    background-color:lightblue
 }
+
+.navbar{
+    background-color: darkcyan;
+    text-decoration-color:black ;
+}
+/* .responsive {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+  } */
+
+/* .img-thumbnail {
+    margin-left: 18%;
+} */
