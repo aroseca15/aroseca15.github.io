@@ -20,29 +20,23 @@ background-image: url(https://aboutme.imgix.net/background/alexbelyakov_13319353
       } 
 
 
-      #contactform{
-
+#contactform{
+    margin-top: 7%;
 
 }
-/* #profilepictext{
-  margin: 10%   
-} */
 
+#submit {
+    color: white;
+}
 
+#row2{
+margin-top: 8%;
+}
 
-/* #homepic{
-margin: 3%;
-max-height: 4%;
-max-width: auto;
+.card-body{
+background-color: blanchedalmond;
+}
 
-text-align: center;
-} */
-/* .responsive {
-    width: 100%;
-    max-width: 300px;
-    height: auto;
-  } */
-
-/* .img-thumbnail {
-    margin-left: 18%;
-} */
+#aboutmetext{
+   font-size: 130%
+}
