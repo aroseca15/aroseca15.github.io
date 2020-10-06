@@ -2,6 +2,8 @@
 
 Here you will find what I have of my website so far:
 
+Deployment Link: https://aroseca15.github.io/
+
 Home: 
     I wanted this to be a friendly first impression. I live in a small town with lots of family owned small business. In my future consideratons I may or may not add a caption explaining the San Francisco vacation photo. 
 
