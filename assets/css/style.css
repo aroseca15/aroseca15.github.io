@@ -40,3 +40,20 @@ background-color: blanchedalmond;
 #aboutmetext{
    font-size: 130%
 }
+
+.lead1{
+    font-size: 2rem;
+}
+
+#h1 {
+    font-size: 4rem;
+}
+
+#jumP {
+font-size: 3rem;
+}
+
+#aboutmetext {
+    font-size: 1.8rem;
+    font-weight: 600;
+}
