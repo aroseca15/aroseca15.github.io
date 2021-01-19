@@ -13,6 +13,10 @@ background-image: url(https://aboutme.imgix.net/background/alexbelyakov_13319353
 
     }
 
+    #BG{
+        background-color:cornsilk;
+    }
+
     #personalIcons{
         margin: 3%;
         text-align: center;
@@ -34,7 +38,7 @@ margin-top: 8%;
 }
 
 .card-body{
-background-color: blanchedalmond;
+background-color: lightblue;
 }
 
 #aboutmetext{
